@@ -1,0 +1,4 @@
+0 Good
+1 Hole
+2 Line_Defect
+3 Stain
